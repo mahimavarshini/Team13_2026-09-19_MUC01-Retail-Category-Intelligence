@@ -6,10 +6,10 @@
 
 ---
 
-### 👤 MEMBER 1: Data Ingestion & Macro Category Revenue Trends
+###  MEMBER 1: Data Ingestion & Macro Category Revenue Trends
 
-- **Name**: `[Insert Member 1 Name]`
-- **Roll Number / Student ID**: `[Insert Member 1 ID]`
+- **Name**: `[Govardhan ]`
+- **Roll Number / Student ID**: `[2300080016]`
 - **Assigned Responsibilities**:
   - CBIM Problem Canvas co-development
   - **Step 5.1**: Data ingestion, schema validation, data hygiene & financial sanity verification
@@ -21,10 +21,10 @@
 
 ---
 
-### 👤 MEMBER 2: Product Assortment & Promotional Discount Effectiveness
+###  MEMBER 2: Product Assortment & Promotional Discount Effectiveness
 
-- **Name**: `[Insert Member 2 Name]`
-- **Roll Number / Student ID**: `[Insert Member 2 ID]`
+- **Name**: `[Shaik Saniya Firoj]`
+- **Roll Number / Student ID**: `[2300030628]`
 - **Assigned Responsibilities**:
   - **Step 5.3**: Top 2 & Bottom 2 products per category, identifying underperforming categories/suppliers to challenge
   - **Step 5.4**: Discount effectiveness across tiers (0%, 5%, 10%, 15%, 20%, 25%+), computing average revenue vs. units sold, plotting discount elasticity curves, and business interpretation
@@ -37,8 +37,8 @@
 
 ### MEMBER 3: Time Patterns, Category Manager Briefing & Final Business Strategy (Team Lead)
 
-- **Name**: `[Your Name / Varshith]` *(Team Lead)*
-- **Roll Number / Student ID**: `[Your Roll Number / Student ID]`
+- **Name**: `[Mahima Varshini]` *(Team Lead)*
+- **Roll Number / Student ID**: `[2300031837]`
 - **Assigned Responsibilities**:
   - Overall Team Leadership, Task Delegation, Code Review & End-to-End Testing
   - **Step 5.5**: Day-of-week sales velocity, monthly sales trajectories, deep-dive into the most interesting category (Electronics) vs. overall business, and promotional timing recommendations
