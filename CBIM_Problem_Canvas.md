@@ -10,9 +10,9 @@
 - **Institution / Department**: KL University — Department of Computer Science & Engineering / Data Analytics
 - **Dataset**: `MUC01_Retail_Sales_Dataset 1.csv` (107,838 Transactions | 12 Stores across Andhra Pradesh)
 - **Team Leadership & Ownership Structure**:
-  - **Member 1**: `[Insert Member 1 Name & ID]` — *CBIM Canvas Co-Development, Step 5.1 (Data Ingestion & Hygiene) & Step 5.2 (Category Revenue Trajectory & Consistency)*
-  - **Member 2**: `[Insert Member 2 Name & ID]` — *Step 5.3 (Top 2 / Bottom 2 SKUs & Supplier Challenge) & Step 5.4 (Discount Tiers 0%–25%+ & Elasticity)*
-  - **Member 3 (Team Lead)**: `[Your Name / Varshith]` — *Step 5.5 (Day-of-Week/Monthly Time Patterns & Promotional Timing) & Step 5.6 (Category Manager Briefing & Final Business Synthesis)*
+  - **Member 1**: `[Member 1 Govardhan , 2300080016]` — *CBIM Canvas Co-Development, Step 5.1 (Data Ingestion & Hygiene) & Step 5.2 (Category Revenue Trajectory & Consistency)*
+  - **Member 2**: `[Member 2 Shaik Saniya Firoj , 2300030628]` — *Step 5.3 (Top 2 / Bottom 2 SKUs & Supplier Challenge) & Step 5.4 (Discount Tiers 0%–25%+ & Elasticity)*
+  - **Member 3 (Team Lead)**: `[Member 3 Mahima Varshini , 2300031837]` — *Step 5.5 (Day-of-Week/Monthly Time Patterns & Promotional Timing) & Step 5.6 (Category Manager Briefing & Final Business Synthesis)*
 
 ---
 
