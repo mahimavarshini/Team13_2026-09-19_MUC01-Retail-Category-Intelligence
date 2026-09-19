@@ -2,10 +2,10 @@
 **Course / Institution**: KL University — Category Management & Retail Analytics  
 **Dataset**: `MUC01_Retail_Sales_Dataset 1.csv` (107,838 Transactions | 12 Stores)  
 
-### 👥 Team Ownership & Rubric Module Mapping (3 Members)
-- **👤 Member 1 (`[Name/ID]`):** CBIM Problem Canvas, Step 5.1 (Data Ingestion & Hygiene), Step 5.2 (Category Revenue Trajectory & Consistency Analysis).
-- **👤 Member 2 (`[Name/ID]`):** Step 5.3 (Top 2 / Bottom 2 SKUs & Supplier Challenge), Step 5.4 (Discount Tiers 0%–25%+ & Price Elasticity).
-- **👑 Member 3 (`[Your Name/ID]` - Team Lead):** Step 5.5 (Day-of-Week/Monthly Time Patterns, Category vs. Business Comparison & Promotional Timing), Step 5.6 (Category Manager Briefing & Final Synthesized Strategy).
+###  Team Ownership & Rubric Module Mapping (3 Members)
+- **Member 1 (`[Govardhan , 2300080016]`):** CBIM Problem Canvas, Step 5.1 (Data Ingestion & Hygiene), Step 5.2 (Category Revenue Trajectory & Consistency Analysis).
+- **Member 2 (`[Shaik Saniya Firoj/2300030628]`):** Step 5.3 (Top 2 / Bottom 2 SKUs & Supplier Challenge), Step 5.4 (Discount Tiers 0%–25%+ & Price Elasticity).
+- **Member 3 (`[Mahima Varshini/2300031837]` - Team Lead):** Step 5.5 (Day-of-Week/Monthly Time Patterns, Category vs. Business Comparison & Promotional Timing), Step 5.6 (Category Manager Briefing & Final Synthesized Strategy).
 
 ---
 
